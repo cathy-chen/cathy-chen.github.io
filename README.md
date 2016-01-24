@@ -1,2 +1,2 @@
-# spotibot
-A Slack integration to collaboratively listen to Spotify with a team
+# Cathy's landing page
+Simple web page/portfolio of work 
